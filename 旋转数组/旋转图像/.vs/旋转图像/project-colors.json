@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9ff7e89-1bc0-4afd-9a96-2bf8c63c8969": {
+      "ProjectGuid": "a9ff7e89-1bc0-4afd-9a96-2bf8c63c8969",
+      "DisplayName": "旋转图像",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

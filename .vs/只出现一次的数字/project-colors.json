@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "729b9923-569b-4a83-bc4e-dcfae4a0d6c1": {
+      "ProjectGuid": "729b9923-569b-4a83-bc4e-dcfae4a0d6c1",
+      "DisplayName": "只出现一次的数字",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

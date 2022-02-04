@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d499aeea-4ff0-4a12-bcb0-ff96305dbd34": {
+      "ProjectGuid": "d499aeea-4ff0-4a12-bcb0-ff96305dbd34",
+      "DisplayName": "两数之和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

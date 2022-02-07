@@ -1,0 +1,15 @@
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\加一.exe
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\加一.deps.json
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\加一.runtimeconfig.json
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\加一.dll
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\ref\加一.dll
+D:\C#SRC\初级算法\加一\加一\加一\bin\Debug\net6.0\加一.pdb
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.csproj.AssemblyReference.cache
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.AssemblyInfoInputs.cache
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.AssemblyInfo.cs
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.csproj.CoreCompileInputs.cache
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.dll
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\ref\加一.dll
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.pdb
+D:\C#SRC\初级算法\加一\加一\加一\obj\Debug\net6.0\加一.genruntimeconfig.cache
